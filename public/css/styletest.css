@@ -1,0 +1,52 @@
+/* 
+p {
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+*/
+
+body {
+    background-color: darkkhaki;
+    font-family: sans-serif;
+    background-color: green;
+    text-transform: uppercase;
+}
+/*
+.texto-rojo {
+    font-size: 30px;
+    color: red;
+}
+*/
+Un selector que afecte a todas las etiquetas <h3> con la regla color:blue
+/*
+h3 {
+    color: blue;
+  }
+*/
+Un selector que afecte a aquellas etiquetas con clase negrita con la
+regla font-weight:bold
+/*
+.negrita {
+    font-weight: bold;
+  }
+  */
+Un selector que afecte a aquella etiqueta con id gigante con la
+regla font-size:40px
+/*
+#gigante {
+    font-size: 40px;
+  }
+  */
+/*
+  p {
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-align: center 
+}
+*/
+#perro {
+
+}

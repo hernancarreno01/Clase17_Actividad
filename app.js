@@ -9,3 +9,4 @@ app.listen(3001, () => console.log("servidor 3001 funcionando"));
 app.get("/", (req, res) => {
   res.sendFile(path.join(__dirname, "/views/home.html"));
 });
+

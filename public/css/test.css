@@ -1,0 +1,32 @@
+p {
+    color: rgba(255,125,125,0.8);
+}
+
+h1 {
+    color:rgb(0, 255, 0)
+}
+
+body {
+    background-image: url('/images/test.jpg');
+    background-repeat: repeat-x;
+    background-position: right top;
+    background-attachment: fixed;
+    background-size: 130px;
+}
+
+body {
+    background-image: url('https://images3.alphacoders.com/621/621682.jpg');
+    background-size: cover;
+    }
+    
+    h1 {
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #f4e033
+    
+    }
+    
+    h2 {
+    background-color: orange;
+    color: white;
+    opacity: 0.4;
+    }
