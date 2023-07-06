@@ -1,4 +1,22 @@
 body {
     background-color: rgb(90, 19, 151);
-    font-family: sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+p {
+    font-size: 12px;
+}
+h3 {
+    font-size: 24px;
+}
+.precio {
+    font-size: 18px;
+}
+.descuento {
+    font-size: 16px;
+}
+.descripcion {
+    font-size: 16px;
+}
+.burger-menu {
+    text-align: center;
 }
