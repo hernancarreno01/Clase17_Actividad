@@ -1,6 +1,9 @@
 body {
-    background-color: rgb(90, 19, 151);
+    background-color: #Ffe600;
     font-family: 'Roboto', sans-serif;
+}
+nav i {
+    padding-inline-start: 5px;
 }
 p {
     font-size: 12px;
@@ -19,4 +22,43 @@ h3 {
 }
 .burger-menu {
     text-align: center;
+}
+searchbar {
+        text-align: left;
+}
+.titular {
+        text-align: center;
+}
+footer {
+  text-align: center;
+}
+
+footer section {
+  margin-bottom: 20px;
+}
+
+footer h4 {
+  font-size: 18px;
+}
+
+footer p {
+  margin-bottom: 10px;
+}
+.copy {
+    text-align: left;
+}
+article {
+    text-align: center;
+}
+img {
+    width: 100%;
+    object-fit: cover;
+}
+html, body {
+    margin: 5;
+    padding: 5;
+  }
+footer i {
+    size: 2em;
+    padding: 10px;
 }
