@@ -15,7 +15,7 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 main {
-    width: 90%;
+    width: 90vw;
     margin: 0 auto;
   }
 html, body {
@@ -141,4 +141,11 @@ footer i {
   }
   * footer p {
     margin: 0 10% 0 10%;
+  }
+
+.fa-truck {
+    border: green 1px solid;
+    color: green;
+    padding: 10px;
+    border-radius: 50%;
   }
